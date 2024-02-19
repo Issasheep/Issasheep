@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Issasheep
-- 👀 I’m interested in computer, coding, gamning. 
+- 👀 I’m interested in coding, gamning. 
 - 🌱 I’m currently learning coding and pratical applictions.
 - 💞️ I’m looking to collaborate on small to large scale projects.
 
